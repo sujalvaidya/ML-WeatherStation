@@ -19,8 +19,8 @@ DHTesp dht;
 Adafruit_BMP280 bmp;
 
 // SSID and Password of your WiFi router
-const char* ssid = "AndroidAPe983";
-const char* password = "zxdy8481";
+const char* ssid = "";
+const char* password = "";
 
 ESP8266WebServer server(80);  // Server on port 80
 
