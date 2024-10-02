@@ -81,7 +81,7 @@ To get started with setting up the project locally, follow the simple steps belo
 - **Arduino IDE**: To program the ESP8266 NodeMCU.
 - **Python Libraries**: Install the following with `pip`:
   ```sh
-  pip install tensorflow scikit-learn requests pandas numpy openmeteo-requests
+  pip install scikit-learn requests pandas numpy openmeteo-requests
   ```
 
 ### Installation
